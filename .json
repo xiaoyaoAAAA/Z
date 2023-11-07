@@ -14,9 +14,87 @@
 
 "sites":[
 
-{"key":"csp_XBiubiu_不卡影院","name":"🥒不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/B18/_不卡影院.json"},
-{"key":"csp_XBiubiu_茶杯狐","name":"🥒茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/B18/_茶杯狐.json"},
- 
+{
+      "key": "1080zy",
+      "name": "1080(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "categories": [
+        "倫理片",
+        "福利"
+      ]
+    },
+    {
+      "key": "jisu",
+      "name": "极速(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "categories": [
+        "伦理片"
+      ]
+    },
+{
+      "key": "kuaiyunzy",
+      "name": "快云(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json",
+      "categories": [
+        "伦理片"
+      ]
+    },
+{
+      "key": "Hanime",
+      "name": "Hanime",
+      "api": "csp_Hanime",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 0.68
+      }
+    },
+ {
+      "key": "Jable",
+      "name": "Jable",
+      "api": "csp_Jable",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+{
+      "key": "csp_XBPQ_Jable",
+      "name": "Jable(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/Jable.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+    },
+ {
+      "key": "csp_XBPQ_朱古力",
+      "name": "朱古力(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/朱古力.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+    },
+
+
+
 {
             "key" : "9号资源",
             "name" : "😍九号|资源",
