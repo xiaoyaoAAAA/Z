@@ -117,8 +117,8 @@
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*周末电影","name":"*周末电影","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}],
-
+{"key":"*周末电影","name":"*周末电影","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
