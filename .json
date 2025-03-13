@@ -58,6 +58,91 @@
             "quickSearch" : 1,
             "filterable" : 0
         },
+	 {
+      "key": "转点",
+      "name": "🔞直转点播",
+      "type": 3,
+      "api": "./lib/apiv2542直转点.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/直转点.txt"
+    },
+        {
+            "key": "最大资源",
+            "name": "🟡最大┃三级",
+            "type": 1,
+            "api": "http://zuidazy.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+            "伦理",
+            "港台三级",
+            "韩国伦理",
+            "西方伦理",
+            "日本伦理",
+            "两性课堂",
+            "写真热舞",
+            "有声动漫",
+            "女频恋爱",
+            "反转爽剧",
+            "古装仙侠",
+            "年代穿越",
+            "脑洞悬疑",
+            "现代都市"
+      ]
+        },
+        {
+            "key": "U酷资源1",
+            "name": "🟡U酷┃电影",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+            "伦理片",
+            "动作片",
+            "喜剧片",
+            "爱情片",
+            "犯罪片",
+            "科幻片",
+            "奇幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "动漫",
+            "动漫电影",
+            "国产剧",
+            "港澳剧",
+            "韩剧",
+            "日剧",
+            "台湾剧",
+            "欧美剧",
+            "综艺",
+            "纪录片"
+      ]
+        },
+
+        {
+         "key": "*AIvin",
+         "name": "🔞AIvin",
+         "type": 0,
+         "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+         },
+
+         {"key": "KpgxdyE", 
+          "name": "🔞黄AV┃<=这或主页换接口", 
+          "type": 0, 
+          "api": "https://www.pgxdy.com/api/xml.php", 
+          "searchable": 1, 
+          "quickSearch": 1, 
+          "filterable": 1 
+          },
+
 { "key": "ms4nii", "name": "美少资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "KxrbspE", "name": "水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "gdlsE", "name": "香儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
