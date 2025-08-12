@@ -16,7 +16,16 @@
  
 
 "sites":[
-{"key":"茅台资源","name": "茅台资源","api": "https://caiji.maotaizy.cc/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":11},
+{
+			"key": "豆瓣",
+			"name": "豆瓣",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs": 1,
+			"ext": "./lib/tokenm.json$$$./lib/douban.json"
+		},
 
     {
       "key": "jisu",
