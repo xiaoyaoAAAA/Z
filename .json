@@ -94,12 +94,7 @@
         },
         {"key":"大奶子资源","name": "大奶子资源","api": "https://apidanaizi.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":58},
 {"key":"小鸡资源","name": "小鸡资源","api": "https://api.xiaojizy.live/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":59},
-	{"key":"py_BadNews·沐辰","name":"BadNews·沐辰","type":4,"api":"https://py.doube.eu.org/spider?site=BadNews","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},
-	{"key":"py_Miss·沐辰","name":"MissAV·沐辰","type":4,"api":"https://py.doube.eu.org/spider?site=Miss","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
-	{"key":"py_AiDou·沐辰","name":"AiDou·沐辰","type":4,"api":"https://py.doube.eu.org/spider?site=AiDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},
-	{"key":"py_MrJav·沐辰","name":"MRJav·沐辰","type":4,"api":"https://py.doube.eu.org/spider?site=MrJav","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},
-	{"key":"php_madou·沐辰","name":"麻豆·沐辰","type":4,"api":"https://py.doube.eu.org/spider?site=MaDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},
-
+	
         {
          "key": "*AIvin",
          "name": "🔞AIvin",
