@@ -4,8 +4,17 @@
     "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
 "lives": [
     {
-      "name": "清风",
+      "name": "清风1",
       "url": "https://gitproxy.mrhjx.cn/https://github.com/xiaoyaoAAAA/k/blob/main/k",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+	{
+      "name": "清风2",
+      "url": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.12.13",
