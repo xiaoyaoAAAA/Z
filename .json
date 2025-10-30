@@ -12,6 +12,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
+	{"name":"清风2","type":0,"url":"https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt","playerType":2,"timeout":10},
 	
   ],
  
