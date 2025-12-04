@@ -5,13 +5,7 @@
  
 
 "sites":[
-{
-            "key": "豆瓣",
-            "name": "豆瓣",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
+{"key":"豆瓣","name":"豆瓣","type":4,"api":"https://catbox.n13.club/t9/douban.php","searchable":0,"quickSearch":0},
 
    {"key": "七度空间","name": "七度空间","type": 4,"api": "http://drpy.mxlgsl.cn/api/七度空间[密]","searchable": 0,"quickSearch": 0},
 {"key": "草榴社区","name": "草榴社区","type": 4,"api": "http://drpy.mxlgsl.cn/api/草榴社区[密]","searchable": 2,"ext": ""},  
