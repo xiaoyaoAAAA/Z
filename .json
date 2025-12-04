@@ -1,19 +1,7 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/37e4d70e91824037/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447",
-    "wallpaper": "http://hello.xn--z7x900a.com/ppic/feimao.php",
-    "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
-"lives": [
-    {
-      "name": "清风",
-      "url": "https://tvv.tw/https://github.com/xiaoyaoAAAA/k/blob/main/k",
-      "type": 0,
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-	
-  ],
+"wallpaper": "https://深色壁纸.xxooo.cf/",
+"spider":"./jar/xyqxbpq.jar",
+"lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
  
 
 "sites":[
