@@ -43,7 +43,7 @@
 {"key":"✨草草视频✨","name":"✨草草视频✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨草草视频✨.json"},
 "key":"✨香蕉视频✨","name":"✨香蕉视频.py✨","type":3,"api":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/PY/香蕉视频.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/pg.jar"},
 
-        },
+        
         {"key":"大奶子资源","name": "大奶子资源","api": "https://apidanaizi.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":58},
 {"key":"小鸡资源","name": "小鸡资源","api": "https://api.xiaojizy.live/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":59},
 	{
@@ -61,7 +61,7 @@
          },
 
       
-{"key":
+
 {"key":"✨FC2官网✨","name":"✨FC2官网✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/PG/json/✨FC2官网✨.json"},
 
 { "key": "ms4nii", "name": "美少资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
