@@ -41,11 +41,9 @@
 	{"key":"✨85PO✨","name":"✨85PO✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨85PO✨.json"},
 {"key":"py_AiDou","name":"✨🔞AiDou(T4)✨","type":4,"api":"https://py.doube.eu.org/spider?site=AiDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/pg.jar"},
 {"key":"✨草草视频✨","name":"✨草草视频✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨草草视频✨.json"},
-{"key":"✨香蕉视频✨","name":"✨香蕉视频.py✨","type":3,"api":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/PY/香蕉视频.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/pg.jar"},
 
-        
-        {"key":"大奶子资源","name": "大奶子资源","api": "https://apidanaizi.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":58},
-{"key":"小鸡资源","name": "小鸡资源","api": "https://api.xiaojizy.live/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":59},
+{"key":"大奶子资源","name": "大奶子资源","api": "https://apidanaizi.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":58},
+
 	{
 			"key": "文件播放",
 			"name": "文件播放",
