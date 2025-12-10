@@ -16,7 +16,7 @@
 {"key":"MissAV","name":"MissAV(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=Miss"},	
 {"key":"✨85PO✨","name":"✨85PO✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨85PO✨.json"},
 {"key":"py_AiDou","name":"✨🔞AiDou(T4)✨","type":4,"api":"https://py.doube.eu.org/spider?site=AiDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/pg.jar"},
-{"key":"✨草草视频✨","name":"✨草草视频✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g.blfrp.cn/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨草草视频✨.json"},
+{"key":"✨草草视频✨","name":"✨草草视频✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://tvv.tw/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvv.tw/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨草草视频✨.json"},
 {
             "key" : "9号资源",
             "name" : "😍九号|资源",
@@ -29,7 +29,7 @@
 	
 
 {"key":"大奶子资源","name": "大奶子资源","api": "https://apidanaizi.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":58},
-
+{"key":"✨FC2官网✨","name":"✨FC2官网✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://tvv.tw/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvv.tw/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨FC2官网✨.json"},
 	{
 			"key": "文件播放",
 			"name": "文件播放",
