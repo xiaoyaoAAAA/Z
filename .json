@@ -11,12 +11,6 @@
             "searchable": 0
         },
 
-{"key": "七度空间","name": "七度空间","type": 4,"api": "http://drpy.mxlgsl.cn/api/七度空间[密]","searchable": 0,"quickSearch": 0},
-{"key": "草榴社区","name": "草榴社区","type": 4,"api": "http://drpy.mxlgsl.cn/api/草榴社区[密]","searchable": 2,"ext": ""},  
-{"key":"MissAV","name":"MissAV(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=Miss"},	
-{"key":"✨85PO✨","name":"✨85PO✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨85PO✨.json"},
-{"key":"py_AiDou","name":"✨🔞AiDou(T4)✨","type":4,"api":"https://daili.korice.eu.org/https://py.doube.eu.org/spider?site=AiDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/pg.jar"},
-{"key":"✨草草视频✨","name":"✨草草视频✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨草草视频✨.json"},
 {
             "key" : "9号资源",
             "name" : "😍九号|资源",
@@ -29,28 +23,50 @@
 	
 
 {"key":"大奶子资源","name": "大奶子资源","api": "https://apidanaizi.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":58},
-{"key":"✨FC2官网✨","name":"✨FC2官网✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/json/✨FC2官网✨.json"},
+
 	{
 			"key": "文件播放",
 			"name": "文件播放",
 			"type": 4,
 			"api": "http://139.185.42.4:14888/TV/lives.php"
 		},
-		
-        {
-         "key": "*AIvin",
-         "name": "🔞AIvin",
-         "type": 0,
-         "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-         },
-
-
-{ "key": "ms4nii", "name": "美少资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "KxrbspE", "name": "水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "gdlsE", "name": "香儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "kxgav", "name": "白资源(已修复)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "afasu", "name": "小湿资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "KpgxdyE", "name": "黄资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	{
+			"key": "本地txt",
+			"name": "🔞本地txt",
+			"api": "csp_FileSpider",
+			"type": "3",
+			"ext": "./txt/黄色仓库.txt",
+			"searchable": 1,
+			"filterable": 1,
+			"switchable": 1,
+			"jar": "./jar/WvSpider.jar"
+		},
+		{
+			"key": "本地m3u",
+			"name": "🔞本地m3u",
+			"api": "csp_FileSpider",
+			"type": "3",
+			"ext": "./txt/麻豆图标版.m3u",
+			"searchable": 1,
+			"filterable": 1,
+			"switchable": 1,
+			"jar": "./jar/WvSpider.jar"
+		},
+{
+			"key": "91rb",
+			"name": "🔞91rb(py)",
+			"type": 3,
+			"api": "./py/91rb.py",
+			"changeable": 1
+		},
+		{
+			"key": "DSYS",
+			"name": "🔞DSYS(py)",
+			"type": 3,
+			"api": "./py/DSYS.py",
+			"changeable": 1
+		},	
+        
 
 
 {"key":"csp_https://18hr.life/label/sort","name":"🔞18禁AV","type":3,"api":"csp_XBPQ",    "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar", "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"直接播放":"1","播放线路":"<div class=\"play-left\">&&</div>","分类url":"https://18hr.life/show/{cateId}/by/{by}/nid/1/page/{catePg}/sid/1/","分类":"国产$1#日韩$2#欧美$3#伦理$4#动漫$16","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷拍偷窥$8#伦理系列$9#网爆吃瓜$10#抖音风格$11#传媒剧情$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日本无码$14#日本字母$15#AV解说$17#换脸明星$18||欧美自拍$21#欧美字母$22#重口味$23||伦理三级$29#日韩伦理$30||剧集动漫$26#3D动漫$27#次元动漫$28","排序":"最新$time#日榜$hits_day#月榜$hits_week"}},
