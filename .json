@@ -30,118 +30,14 @@
 			"type": 4,
 			"api": "http://139.185.42.4:14888/TV/lives.php"
 		},
-	{
-			"key": "本地txt",
-			"name": "🔞本地txt",
-			"api": "csp_FileSpider",
-			"type": "3",
-			"ext": "./txt/黄色仓库.txt",
-			"searchable": 1,
-			"filterable": 1,
-			"switchable": 1,
-			"jar": "./jar/WvSpider.jar"
-		},
-		{
-			"key": "本地m3u",
-			"name": "🔞本地m3u",
-			"api": "csp_FileSpider",
-			"type": "3",
-			"ext": "./txt/麻豆图标版.m3u",
-			"searchable": 1,
-			"filterable": 1,
-			"switchable": 1,
-			"jar": "./jar/WvSpider.jar"
-		},
-{
-			"key": "91rb",
-			"name": "🔞91rb(py)",
-			"type": 3,
-			"api": "./py/91rb.py",
-			"changeable": 1
-		},
-		{
-			"key": "DSYS",
-			"name": "🔞DSYS(py)",
-			"type": 3,
-			"api": "./py/DSYS.py",
-			"changeable": 1
-		},	
-        
-
-
-{"key":"csp_https://18hr.life/label/sort","name":"🔞18禁AV","type":3,"api":"csp_XBPQ",    "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar", "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"直接播放":"1","播放线路":"<div class=\"play-left\">&&</div>","分类url":"https://18hr.life/show/{cateId}/by/{by}/nid/1/page/{catePg}/sid/1/","分类":"国产$1#日韩$2#欧美$3#伦理$4#动漫$16","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷拍偷窥$8#伦理系列$9#网爆吃瓜$10#抖音风格$11#传媒剧情$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日本无码$14#日本字母$15#AV解说$17#换脸明星$18||欧美自拍$21#欧美字母$22#重口味$23||伦理三级$29#日韩伦理$30||剧集动漫$26#3D动漫$27#次元动漫$28","排序":"最新$time#日榜$hits_day#月榜$hits_week"}},
-
- 
-{"key":"csp_XBPQ_欧美日韩精品","name":"🔞欧美日韩精品","type":3,"api":"csp_XBPQ",    "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8", "链接":"href=\"&&\"[替换:vod>>shenma#.html>>-1-1.html]","直接播放":"1","搜索url":"https://www.fswst.com/vodsearch/{by}-------------.html","主页url":"https://www.fswst.com/","分类url":"https://www.fswst.com/play/{cateId}-{catePg}.html","分类":"中文字幕$20#国产自拍$21#日韩无码$22#极骚萝莉$23#强奸乱伦$24#欧美极品$25#三级自慰$26#激情口交$27"}},
-       {
-            "key": "麻豆",
-            "name": "🔞麻豆",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar",
-            "style": {
-                "ratio": 1.7
-            },
-            "ext": {
-                "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "分类": "日本视频$1#麻豆视频$2#国产视频$3",
-                "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-                "直接播放": "1",
-                "剧情":"大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||无","剧情值":"*"
-
-
-
-            }
-        },
-{
-     "key": "乐草",
-     "name": "🔞乐草", 
-     "type":3,
-     "jar": "https://gh.llkk.cc/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
-     "api":"csp_XBPQ",  
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1,                                                                       
-   "ext": {
-	   "直接播放":"1",
-	   "编码": "UTF-8",
-	   "请求头": "User-Agent$MOBILE_UA",
-	   "主页url":"https://lecao2.top/",
-	   "分类url":"https://lecao2.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	   "分类":"国产自拍$20#网红主播$21#探花系列$23#传媒出品$25#日本无码$26#日本有码$27#中文字幕$28#欧美精品$29#三级伦理$30#人妻熟女$31#口爆颜射$32#SM调教$33#制服诱惑$34#多人群交$35#女同性爱$36#萝莉少女$38#成人动漫$39"}
-   },
-{
-            "key": "农夫与少妇",
-            "name": "🏆农夫与少妇",
-            "type": 3,
-            "api": "csp_XBPQ",
-          "jar":"https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/jar/He.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-                 "ext": {
-     "二次截取": "<ul class=\"img-list-data&&</ul",
-    "数组": "<li>&&</li>",
-    "图片": "data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "text-bg-r\">&&</p",
-    "简介": "keywords\"*content=\"&&剧情",
-    "链接": "href=\"&&\"",
-    "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-    "搜索模式": "1",
-    "搜索url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/search/page/{pg}/wd/{wd}.html",
-    "分类二次截取": "<div class=\"row <{menuInfo.key}>-row\">&&激情图区",
-    "分类数组": "<a&&/a",
-    "分类标题": ">&&<",
-     "分类":"国产专区&制服诱惑&中文字幕&国产传媒&日本有码&日本无码&欧美无码&强奸乱伦&三级专区&人妖系列&韩国主播&国产主播&激情动漫&明星换脸&抖阴视频&女优明星&网曝黑料&AV解说&SM调教&少女萝莉",
-       "分类值":"6&13&7&8&9&10&11&12&23&30&31&14&15&16&20&21&22&24&25&26" ,
-    "分类ID": "go/index.php/vod/type/id/&&.html",
-    "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-            }},
+{"key":"✨水果派✨","name":"✨水果派✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/水果派.json"},		
+{"key":"lbapiby","name":"🔞--AIvin-","type":1,"api":"http://lbapiby.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+{"key":"155zy","name":"🔞155-资源","type":1,"api":"https://155api.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+{"key":"fhapi9","name":"🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+{"key":"lajiao","name":"🔞辣椒资源","type":1,"api":"https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+ {"key":"doudou","name":"🔞豆豆资源","type":1,"api":"https://api.douapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+{"key":"didi","name":"🔞滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+{"key":"heiliao","name":"🔞黑料资源","type":1,"api":"https://www.heiliaozyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
 {"key":"七天","name": "七天","api": "https://8day.icu/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":94},
 {"key":"湿乐园","name": "湿乐园","api": "https://xxavs.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":100},
 {"key":"老色逼资源","name": "老色逼资源","api": "https://apilsbzy1.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":106},
