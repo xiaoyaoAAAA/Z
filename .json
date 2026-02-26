@@ -2,18 +2,7 @@
     "spider": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "http://hello.xn--z7x900a.com/fm.gif",
-   "lives": [
-	   {
-			"name": "清风1",
-			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
-		},
-	   {
-			"name": "清风2",
-			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
-		},
-	   ],
-	
-	
+  
 	"sites": [
         {
             "key": "豆瓣",
@@ -97,9 +86,21 @@
 {"key":"*动漫岛","name":"*动漫岛","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-
-	{"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
- "parses": [
+{"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
+	
+ "lives": [
+	   {
+			"name": "清风1",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
+		},
+	   {
+			"name": "清风2",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
+		},
+	   ],
+	
+	
+	"parses": [
         {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
