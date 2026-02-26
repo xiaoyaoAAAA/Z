@@ -1,7 +1,16 @@
 {
-    "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo": "http://hello.xn--z7x900a.com/fm.gif",
+  "spider": "./jar/xyqxbpq.jar",
+  "headers": [
+    {
+      "host": "aosikazy.com",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"
+      }
+    }
+  ],
+  "logo": ".美.gif",
+  "wallpaper": "https://picsum.photos/1080/",
+  "notice": "版本：115.01.05.Ver.B",
 	"sites": [
         {
             "key": "豆瓣",
