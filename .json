@@ -2,7 +2,19 @@
     "spider": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "http://hello.xn--z7x900a.com/fm.gif",
-    "sites": [
+   "lives": [
+	   {
+			"name": "清风1",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
+		},
+	   {
+			"name": "清风2",
+			"url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
+		},
+	   ],
+	
+	
+	"sites": [
         {
             "key": "豆瓣",
             "name": "豆瓣",
@@ -10,6 +22,13 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+		{
+			"key": "采集集合",
+			"name": "采集集合+",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+			"ext": "0"
+		},
 
 {
             "key" : "9号资源",
