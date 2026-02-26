@@ -26,7 +26,6 @@
 			"api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
 			"ext": "0"
 		},
-
 {
             "key" : "9号资源",
             "name" : "😍九号|资源",
@@ -98,17 +97,21 @@
 	
  "lives": [
     {
-      "name": "清风1",
-      "playerType": 2,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-    },
-    {
-      "name": "清风2",
-      "playerType": 2,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-    },
+			"name": "清风1",
+			"type": 0,
+			"url": "https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "清风2",
+			"type": 0,
+			"url": "https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
     {
       "name": "天美传媒816",
       "type": 0,
