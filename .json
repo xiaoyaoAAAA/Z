@@ -12,7 +12,7 @@
   "wallpaper": "https://picsum.photos/1080/",
   "notice": "版本：115.01.05.Ver.B",
 	"sites": [
-       {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/leexuben/BINGO-TV/main/jar/%E6%BD%87%E6%B4%92.jar"},
+      {"key":"豆瓣","name":"豆瓣","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 		{
 			"key": "采集集合",
 			"name": "采集集合+",
@@ -94,14 +94,14 @@
             "name": "清风1",
             "type": 0,
             "playerType": 2,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
+            "url": "https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/hsck_gc.m3u",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         },
 {
             "name": "清风2",
             "type": 0,
             "playerType": 2,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
+            "url": "https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/mdsp.m3u",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
  ],
