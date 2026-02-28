@@ -102,15 +102,13 @@
       "name": "清风9",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
-      "timeout": 10,
-      "playerType": 2
+     
     },
 	{
       "name": "清风4",
       "type": 0,
       "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
-      "timeout": 10,
-      "playerType": 2
+     
     }
  ],
 
