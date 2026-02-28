@@ -91,7 +91,7 @@
             "name": "清风A",
             "type":1,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
-            "playerType":0
+            "playerType":2
 			 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -99,7 +99,7 @@
             "name": "清风B",
             "type": 2,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
-            "playerType": 1
+            "playerType": 2
 			 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
