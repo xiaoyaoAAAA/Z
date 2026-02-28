@@ -88,14 +88,14 @@
 
 	  "lives": [
         {
-            "name": "清风a",
+            "name": "清风0",
             "type": 0,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
             "playerType": 2,
            
         },
         {
-            "name": "清风b",
+            "name": "清风9",
             "type": 0,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
             "playerType": 2,
