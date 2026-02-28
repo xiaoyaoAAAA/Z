@@ -87,9 +87,15 @@
 {"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
 
 	  "lives": [
-       
         {
             "name": "清风a",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
+            "playerType": 2,
+           
+        },
+        {
+            "name": "清风b",
             "type": 0,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
             "playerType": 2,
