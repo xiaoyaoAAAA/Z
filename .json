@@ -11,8 +11,13 @@
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
   "notice": "版本：115.01.05.Ver.B",
+	"lives":[{"name":"清风1","type":0,"url":"https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/hsck_gc.m3u"},
+		{"name":"清风2","type":0,"url":"https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/mdsp.m3u"}
+	],
+
+	
 	"sites": [
-      {"key":"豆瓣","name":"豆瓣","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+      {"key":"T4_豆瓣","name":"豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php","searchable":0,"quickSearch":0},
 		{
 			"key": "采集集合",
 			"name": "采集集合+",
@@ -89,22 +94,7 @@
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
 	
- "lives": [
-     {
-            "name": "清风1",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/hsck_gc.m3u",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-        },
-{
-            "name": "清风2",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/mdsp.m3u",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-        }
- ],
+
   "parses": [
     {"name": "七智", "type": 3, "url": "https://jx.2s0.cn/player/?url="},
     {
