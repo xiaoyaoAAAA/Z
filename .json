@@ -89,7 +89,7 @@
 	  "lives": [
         {
             "name": "清风A",
-            "type": 0,
+            "type":1,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
             "playerType":0
 			 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
@@ -97,7 +97,7 @@
         },
 		  {
             "name": "清风B",
-            "type": 0,
+            "type": 2,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
             "playerType": 1
 			 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
