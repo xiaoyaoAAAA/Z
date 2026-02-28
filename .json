@@ -1,23 +1,15 @@
 {
-  "spider": "./jar/xyqxbpq.jar",
-  "headers": [
-    {
-      "host": "aosikazy.com",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"
-      }
-    }
-  ],
-  "logo": ".美.gif",
-  "wallpaper": "https://picsum.photos/1080/",
-  "notice": "版本：115.01.05.Ver.B",
-	"lives":[{"name":"清风1","type":0,"url":"https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/hsck_gc.m3u"},
-		{"name":"清风2","type":0,"url":"https://down.nigx.cn/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/mdsp.m3u"}
-	],
-
-	
-	"sites": [
-      {"key":"T4_豆瓣","name":"豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php","searchable":0,"quickSearch":0},
+    "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7a3502fc0415ddd7/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "logo": "http://hello.xn--z7x900a.com/fm.gif",
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
 		{
 			"key": "采集集合",
 			"name": "采集集合+",
@@ -93,6 +85,25 @@
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
+
+	    "lives": [
+        {
+            "name": "清风1",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "清风2",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
+            "playerType": 2,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+
+
 	
 
   "parses": [
