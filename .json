@@ -90,31 +90,9 @@
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
 	
- "lives": [
-    {
-      "name": "清风0",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
-      "timeout": 10,
-      "playerType": 2
-    },
-      {
-      "name": "清风9",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
-     
-    },
-	{
-      "name": "清风4",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
-     
-    }
- ],
 
 
-	
-  "parses": [
+ "parses": [
     {
       "name": "解析聚合",
       "type": 3,
