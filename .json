@@ -2,30 +2,6 @@
     "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7a3502fc0415ddd7/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "http://hello.xn--z7x900a.com/fm.gif",
- "lives": [
-    {
-      "name": "清风0",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
-      "timeout": 10,
-      "playerType": 2
-    },
-      {
-      "name": "清风9",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
-      "timeout": 10,
-      "playerType": 2
-    },
-	{
-      "name": "清风4",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
-      "timeout": 10,
-      "playerType": 2
-    }
- ],
-
 
 	
     "sites": [
@@ -113,6 +89,31 @@
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
+	
+ "lives": [
+    {
+      "name": "清风0",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
+      "timeout": 10,
+      "playerType": 2
+    },
+      {
+      "name": "清风9",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
+      "timeout": 10,
+      "playerType": 2
+    },
+	{
+      "name": "清风4",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
+      "timeout": 10,
+      "playerType": 2
+    }
+ ],
+
 
 	
   "parses": [
