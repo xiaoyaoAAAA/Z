@@ -86,19 +86,22 @@
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":145}],
 
-	    "lives": [
-    {
-      "group": "redirect",
-      "channels": [
+	  "lives": [
         {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://gh.llkk.cc/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/做爱大全.txt"
-          ]
+            "name": "清风1",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "清风2",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
+            "playerType": 2,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
-      ]
-    }
-  ],
+    ],
   "parses": [
     {
       "name": "解析聚合",
