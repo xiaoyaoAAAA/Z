@@ -88,13 +88,23 @@
 
 	  "lives": [
         {
-            "name": "清风1",
+            "name": "清风A",
             "type": 0,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/hsck_gc.m3u",
             "playerType": 2
+			 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+		  {
+            "name": "清风B",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
+            "playerType": 2
+			 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "清风2",
+            "name": "清风C",
             "type": 0,
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
             "playerType": 2,
