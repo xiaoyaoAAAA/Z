@@ -63,7 +63,18 @@
 			"api": "http://139.185.42.4:14888/TV/lives.php"
 		},
 	 
-{"key":"✨水果派✨","name":"✨水果派✨","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/水果派.json"},		
+{
+      "key": "水果派",
+      "name": "🔞水果派",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/水果派.json"
+    },
 {"key":"lbapiby","name":"🔞--AIvin-","type":1,"api":"http://lbapiby.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
 {"key":"155zy","name":"🔞155-资源","type":1,"api":"https://155api.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
 {"key":"fhapi9","name":"🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
