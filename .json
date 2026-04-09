@@ -20,7 +20,7 @@
 	{
       "name": "清风4",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/18/sbjh.m3u",
+      "url": "https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/adulttvlist.m3u",
       "timeout": 10,
       "playerType": 2
     }
