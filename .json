@@ -4,23 +4,23 @@
     "logo": "http://hello.xn--z7x900a.com/fm.gif",
  "lives": [
     {
-      "name": "清风0",
+      "name": "清风1",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/tvlist.txt",
       "timeout": 10,
       "playerType": 2
     },
       {
-      "name": "清风9",
+      "name": "清风2",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xiaoyaoAAAA/k/refs/heads/main/k",
       "timeout": 10,
       "playerType": 2
     },
 	{
-      "name": "清风4",
+      "name": "清风3",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/luoliphysics/TVBOX/refs/heads/main/adulttvlist.m3u",
+      "url": "https://d.kstore.dev/download/15352/TV/18%E6%8E%A5%E5%8F%A3.txt",
       "timeout": 10,
       "playerType": 2
     }
