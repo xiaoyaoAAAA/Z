@@ -1,7 +1,6 @@
 {
-    "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7a3502fc0415ddd7/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo": "http://hello.xn--z7x900a.com/fm.gif",
+"spider":"https://oss4liview.moji.com/thd_file/2026/04/09/66c49607560d8487a4ca1d387d7311af.jpg;md5;596fe0f8b20d34e041cb3727b64ec13e",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
  "lives": [
     {
       "name": "清风1",
@@ -27,15 +26,7 @@
  ],
 
 "sites": [
-         {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "./json/douban.json"
-    },
+       {"key":"豆瓣","name":"豆瓣","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 		{
 			"key": "采集集合",
 			"name": "采集集合+",
