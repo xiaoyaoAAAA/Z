@@ -55,16 +55,13 @@
 		},
 	 
 {
-      "key": "水果派",
-      "name": "🔞水果派",
+      "key": "XMVideo",
+      "name": "🔞骚火视频",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "api": "csp_XMVideo",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/水果派.json"
+      "jar": "./jar/182.jar"
     },
 {"key":"lbapiby","name":"🔞--AIvin-","type":1,"api":"http://lbapiby.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
 {"key":"155zy","name":"🔞155-资源","type":1,"api":"https://155api.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
