@@ -19,7 +19,7 @@
 	{
       "name": "清风3",
       "type": 0,
-      "url": "https://d.kstore.dev/download/15352/TV/18%E6%8E%A5%E5%8F%A3.txt",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/sbjh.m3u",
       "timeout": 10,
       "playerType": 2
     }
